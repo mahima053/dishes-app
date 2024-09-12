@@ -1,0 +1,18 @@
+{
+    "diet": {
+        "vegetarian": "Vegetarian",
+        "nonVegetarian": "Non Vegetarian"
+    },
+    "flavorProfile": {
+        "spicy": "Spicy",
+        "sweet": "Sweet",
+        "sour": "Sour",
+        "bitter": "Bitter"
+    },
+    "dishCourse": {
+        "starter": "Starter",
+        "snack": "Snack",
+        "mainCourse": "Main Course",
+        "dessert": "Dessert"
+    }
+}

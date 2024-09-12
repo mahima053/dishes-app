@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "baseUrl": "./",
+    "paths": {
+      "@features/*": ["src/features/*"],
+      "@i18n/*": ["src/i18n/*"],
+      "@infrastructure/*": ["src/infrastructure/*"],
+      "@locales/*": ["src/locales/*"],
+    }
+  },
+  "include": ["src/**/*"],
+}
